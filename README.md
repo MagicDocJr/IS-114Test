@@ -3,6 +3,6 @@
 
 Hei på deg
 
-Jeg heter Aleksander
+Jeg heter Kirsti
 
 
